@@ -1,6 +1,6 @@
 <h1 
   align="center"
-  >Hi there, welcome to Ilyas's Github profile! Glad to see you! 👋
+  >Hi there, welcome to Umlaut's Github profile! Glad to see you! 👋
 </h1>
 <p 
   align="center">
